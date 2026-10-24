@@ -1,1 +1,4 @@
-# Wave-Bet
+flask
+flask-cors
+requests
+gunicorn
